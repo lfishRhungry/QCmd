@@ -119,6 +119,7 @@ QCmd::~QCmd() {
 	CloseHandle(hWritePipe1);
 	CloseHandle(hWritePipe2);
 	CloseHandle(ProcessInformation.hThread);
+	TerminateProcess(ProcessInformation.hProcess, 0); // 一定要关闭子进程啊！！！！！
 	CloseHandle(ProcessInformation.hProcess);
 }
 
