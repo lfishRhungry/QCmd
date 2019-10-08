@@ -2,5 +2,5 @@
 
 来看看效果：
 
-![](https://github.com/lfishRhungry/QCmd/blob/master/Screen Shot 2019-10-08 at 10.56.20 AM.png)
+![](https://github.com/lfishRhungry/QCmd/blob/master/Screen%20Shot%202019-10-08%20at%2010.56.20%20AM.png)
 
